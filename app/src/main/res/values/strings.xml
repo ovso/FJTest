@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">FJTest</string>
+  <string name="error_server">서버 문제가 발생했습니다. 잠시후 다시 시도해 주세요.</string>
+  <string name="my_email">ovsoc@daum.net</string>
+  <string name="opensource_license">오픈소스 라이선스</string>
+  <string name="help">도움말</string>
+  <string name="drive_phone">대리운전 전화번호</string>
+  <string name="query">대리운전</string>
+  <string name="nationwide">전국</string>
+  <string name="warning_permission">위치 및 전화 권한을 설정하셔야 합니다.</string>
+  <string name="do_you_want_to_call">전화를 거시겠습니까?</string>
+  <string name="make_call">전화걸기</string>
+</resources>
