@@ -12,7 +12,6 @@
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:theme="@style/AppTheme.AppBarOverlay"
-
       >
 
     <android.support.v7.widget.Toolbar
@@ -24,26 +23,26 @@
         app:popupTheme="@style/AppTheme.PopupOverlay"
         />
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/white"
         android:text="ㄱ ㄱ ㄱ ㄱ ㄱ ㄱ ㄱ ㄱ ㄱ ㄱ "
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="@android:color/white"
         android:textColor="@android:color/black"
         app:layout_scrollFlags="scroll|enterAlways|snap"
         />
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:color/white"
         android:text="ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ ㄴ"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="@android:color/white"
         android:textColor="@android:color/black"
         app:layout_scrollFlags="scroll|enterAlways|snap"
         />
     <TextView
-        android:text="ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ "
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="@android:color/white"
+        android:text="ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ ㄷ "
         android:textColor="@android:color/black"
         />
   </android.support.design.widget.AppBarLayout>
